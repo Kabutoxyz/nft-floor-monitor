@@ -1,0 +1,1 @@
+# nft-floor-monitor\n\nMonitor NFT floor prices across collections with alerts\n\n## Usage\n```bash\npython main.py\n```
